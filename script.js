@@ -10,5 +10,5 @@ function movie () {
     document.getElementById('answer').innerHTML = 'you can get it for free'
   } else {
     document.getElementById('answer').innerHTML = 'you need to pay'
-   }
+  }
 }
