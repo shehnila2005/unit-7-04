@@ -2,7 +2,7 @@ let age = 0
 let day = 0
 
 document.getElementById('button').addEventListener('click', movie)
-function movie() {
+function movie () {
   age = document.getElementById('input').value
   day = document.getElementById('day').value
 
